@@ -10,6 +10,9 @@ weight: 10
 
 author: admin
 
+design:
+  columns: '2'
+
 #design:
 #  background:
 #    color: '#090a0b'
@@ -19,6 +22,30 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+Brand fashion wanita yang mendesign busana batik sejak 2008.   
+  
+Koleksi Roona batik terbuat dari bahan dan teknik pembuatan berkualitas tinggi serta dirancang secara ekslusif.  
+  
+✨ Tampil berkelas dalam setiap kesempatan dengan koleksi dari Roona Batik ✨   
 
-Check out my [CV](/about/) and blog posts below 🌈
+
+<a href="https://instagram.com/roona.batik" class="bigbutton">{{< icon name="instagram" pack="fab" >}} Instagram</a>  
+
+<a href="https://api.whatsapp.com/send?phone=6281380048044" class="bigbutton">{{< icon name="whatsapp" pack="fab" >}} Whatsapp</a>  
+
+<a href="tel:081380048044" class="bigbutton">{{< icon name="phone" pack="fas" >}} 081380048044</a>  
+
+<a href="https://www.tokopedia.com/roonabatik/" class="bigbutton">{{< icon name="shopping-bag" pack="fas" >}} Tokopedia</a>  
+
+<a href="https://shopee.co.id/roona_batik" class="bigbutton">{{< icon name="shopping-bag" pack="fas" >}} Shopee</a>  
+
+![Roona Batik](slide-1.webp)
+
+## Jogja
+Perumahan Alam Citra Blok E23, Jl. Parangtritis Km.7, Cabeyan, Panggungharjo, Sewon Bantul.
+[Google Maps](https://goo.gl/maps/tmK16WBUpbNWy27x6)
+
+## Jakarta
+Thamrin City lantai dasar blok H.11 No.3, Tanah Abang, Jakarta Pusat.
+[Google Maps](https://goo.gl/maps/GSXhcys12jXjzvQ16)
+

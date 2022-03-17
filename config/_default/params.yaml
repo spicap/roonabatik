@@ -6,20 +6,20 @@
 # Appearance
 
 appearance:
-  theme_day: custom
+  theme_day: 
   theme_night: custom
-  font: minimal
+  font: native
   font_size: L
 
 # SEO
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Brand
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Roona Batik'
+    description: 'Tampil berkelas dalam setiap kesempatan dengan koleksi dari Roona Batik'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -41,9 +41,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Roona Batik'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
