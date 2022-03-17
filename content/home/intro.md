@@ -26,7 +26,7 @@ Brand fashion wanita yang mendesign busana batik sejak 2008.
   
 Koleksi Roona batik terbuat dari bahan dan teknik pembuatan berkualitas tinggi serta dirancang secara ekslusif.  
   
-Tampil berkelas dalam setiap kesempatan dengan koleksi dari Roona Batik.  
+Tampil berkelas dalam setiap kesempatan dengan koleksi dari Roona Batik.    
 
 
 <a href="https://instagram.com/roona.batik" class="bigbutton">{{< icon name="instagram" pack="fab" >}} Instagram</a>  
