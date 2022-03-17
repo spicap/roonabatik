@@ -39,7 +39,11 @@ Tampil berkelas dalam setiap kesempatan dengan koleksi dari Roona Batik.
 
 <a href="https://shopee.co.id/roona_batik" class="bigbutton">{{< icon name="shopping-bag" pack="fas" >}} Shopee</a>  
 
-![Roona Batik](slide-1.webp)
+{{< gallery album="long-dress-intro" resize_options="150x150" >}}  
+  
+<br><a href="/galeri/" class="bigbutton">{{< icon name="camera" pack="fas" >}} Lihat Semua Galeri Baju</a>  
+
+<!-- ![Roona Batik](slide-1.webp) -->
 
 ## Jogja
 Perumahan Alam Citra Blok E23, Jl. Parangtritis Km.7, Cabeyan, Panggungharjo, Sewon Bantul.

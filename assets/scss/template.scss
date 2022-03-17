@@ -84,15 +84,28 @@ ul.network-icon .big-icon {
   margin-bottom: 1em;
 }
 
+.gallery a[data-fancybox] img {
+  width: 50%;
+  height: auto;
+}
+
 // Narrower container for Hello World sections (primarily Blank widget content).
 @media (min-width: 1200px) {
   .home-section .container {
     max-width: 880px;
   }
+  .gallery a[data-fancybox] img {
+    width: 25%;
+    height: auto;
+  }
 }
 @media (min-width: 992px){
   .home-section .container {
     max-width: 880px;
+  }
+  .gallery a[data-fancybox] img {
+    width: 25%;
+    height: auto;
   }
 }
 
@@ -131,3 +144,5 @@ ul.network-icon .big-icon {
   border-radius: 2rem;
   padding: 0.5rem;
 }
+
+
