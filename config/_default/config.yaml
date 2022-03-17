@@ -3,25 +3,25 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Hugo Academic Blog Theme # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Roona Batik - Batik Premium dan Elegan # Website name
+baseURL: 'https://roonabatik.id' # Website URL
 
 ############################
 ## PAGE OPTIONS
 ############################
 
-cascade:
-  # Blog post options
-  - _target:
-      path: /post/**
-    editable: true
-    reading_time: true
-    commentable: true
-    show_related: true
-    show_breadcrumb: true
-    header:
-      navbar:
-        enable: false
+# cascade:
+#  # Blog post options
+#  - _target:
+#      path: /post/**
+#    editable: true
+#    reading_time: true
+#    commentable: true
+#    show_related: true
+#    show_breadcrumb: true
+#    header:
+#      navbar:
+ #       enable: false
 
 ############################
 ## LANGUAGE

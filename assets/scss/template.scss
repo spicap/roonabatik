@@ -1,6 +1,7 @@
 // Starter Blog Template
 // https://wowchemy.com/hugo-themes/
 
+/* 
 body {
   background-color: rgb(247, 250, 252);
 }
@@ -20,15 +21,19 @@ body {
 .dark .page-footer {
   background-color: rgb(26, 32, 44);
 }
+*/
 
 // more rounded cards and larger gap between cards
 .card-simple {
   margin-top: 1.8rem;
   border-radius: 15px;
 }
+
+/*
 .dark .card-simple {
   background: rgb(31, 39, 51);
 }
+*/ 
 
 // no navbar shadow
 .navbar {
@@ -38,6 +43,7 @@ body {
 // custom section padding
 .home-section {
   padding: 1rem 0 1rem 0;
+  background: white;
 }
 
 .home-section.wg-about-avatar {
@@ -52,6 +58,7 @@ ul.network-icon .big-icon {
   font-size: 1.5rem;
 }
 
+/*
 .dark .portrait-title h3 {
   color: rgba(255, 255, 255, 0.9);
   font-weight: bold;
@@ -61,8 +68,9 @@ ul.network-icon .big-icon {
   color: #fff;
   font-weight: bold;
 }
+*/ 
 
-.home-section > .content {
+.home-section > .content, #slider {
   width: 45em;
   max-width: calc(100% - 4em);
   margin: 0 auto;
@@ -111,4 +119,15 @@ ul.network-icon .big-icon {
 
 .wg-about .portrait-title h3 {
   font-size: .8rem
+}
+
+//Big Button
+ .bigbutton{
+  display: block;
+  width: 100%;
+  max-width: 80%;
+  margin: 0 auto;
+  border: 1px solid #e1b12c;
+  border-radius: 2rem;
+  padding: 0.5rem;
 }
