@@ -18,7 +18,7 @@ superuser: true
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Roona batik, brand fashion wanita yang mendesign busana batik sejak 2008. Koleksi Roona batik terbuat dari bahan dan teknik pembuatan berkualitas tinggi serta dirancang secara ekslusif. Tampil berkelas dalam setiap kesempatan dengan koleksi dari Roona Batik.
+bio: Brand fashion wanita yang mendesign busana batik sejak 2008. Koleksi Roona batik terbuat dari bahan dan teknik pembuatan berkualitas tinggi serta dirancang secara ekslusif. Tampil berkelas dalam setiap kesempatan dengan koleksi dari Roona Batik.
 
 #interests:
 #- Artificial Intelligence

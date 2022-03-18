@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Blog
 cms_exclude: true
 
 # View.
@@ -11,3 +11,4 @@ banner:
   caption: ""
   image: ""
 ---
+

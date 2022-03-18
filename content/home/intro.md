@@ -45,11 +45,3 @@ Tampil berkelas dalam setiap kesempatan dengan koleksi dari Roona Batik.
 
 <!-- ![Roona Batik](slide-1.webp) -->
 
-## Jogja
-Perumahan Alam Citra Blok E23, Jl. Parangtritis Km.7, Cabeyan, Panggungharjo, Sewon Bantul.
-[Google Maps](https://goo.gl/maps/tmK16WBUpbNWy27x6)
-
-## Jakarta
-Thamrin City lantai dasar blok H.11 No.3, Tanah Abang, Jakarta Pusat.
-[Google Maps](https://goo.gl/maps/GSXhcys12jXjzvQ16)
-
