@@ -4,12 +4,14 @@
 # See https://wowchemy.com/docs/widget/pages/
 widget: pages
 headless: true
-active: false
+active: true
 weight: 20
 title: ''
 subtitle: ''
+
 content:
   offset: 0
+  count: 3
   order: desc
   filters:
     folders:
@@ -21,9 +23,12 @@ content:
     exclude_featured: false
   archive:
     enable: false
+  reading_time: false
+  
 design:
   columns: '1'
-  view: card
+  view: showcase
+  view: showcase
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
