@@ -6,7 +6,7 @@ summary: Duis sem augue, fermentum vitae lacus vitae, convallis lacinia leo.
 draft: false
 featured: false
 image:
-  filename: placekitten.jpg
+  filename: image-placeholder-dua.png
   focal_point: Smart
   preview_only: false
 ---
