@@ -6,7 +6,7 @@ summary: Duis sem augue, fermentum vitae lacus vitae, convallis lacinia leo.
 draft: false
 featured: false
 image:
-  filename: image-placeholder-green.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: Image Placeholder
