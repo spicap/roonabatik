@@ -17,7 +17,6 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: 
-  filename: featured-roona-batik-malioboro-mall
   focal_point: Smart
   preview_only: false
 

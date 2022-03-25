@@ -17,7 +17,6 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: Image credit pixabay
-  filename: featured-teknik-pembuatan-batik.jpg
   focal_point: Smart
   preview_only: false
 

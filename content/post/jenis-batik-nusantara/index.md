@@ -17,7 +17,6 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: Image credit wikipedia
-  filename: featured-jenis-batik-nusantara.jpg
   focal_point: Smart
   preview_only: false
 
@@ -67,3 +66,5 @@ Jenis batik di Indonesia selanjutnya, yakni batik kawung, yang memiliki motif tu
 
 ### 12. Batik Tambal (Yogyakarta)
 Motif Batik Tambal, sesuai namanya, motif ini mempunyai arti menambal sesuatu atau memperbaiki sesuatu yang telah rusak. Pada zaman dahulu, orang- orang percaya bahwa kain ini bisa membantu menyembuhkan orang yang sakit. Caranya juga sangat mudah, yaitu dengan menyelimuti orang sakit tersebut dengan menggunakan kain motif tambal ini.
+
+![Jenis Batik Nusantara](jenis-batik.jpg "Jenis Batik Nusantara")
