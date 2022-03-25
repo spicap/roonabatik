@@ -7,7 +7,7 @@ summary: In tristique, velit in posuere mollis, sapien risus fringilla odio, id
 draft: false
 featured: false
 image:
-  filename: null
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
