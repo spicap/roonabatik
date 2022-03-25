@@ -9,6 +9,7 @@ image:
   filename: image-placeholder-dua.png
   focal_point: Smart
   preview_only: false
+  caption: Image Placeholder
 ---
 Fusce euismod maximus ante, nec laoreet turpis commodo sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut iaculis augue. Donec ultrices felis dignissim, convallis nibh sit amet, ullamcorper augue. Vivamus facilisis sapien sit amet aliquet tincidunt. Sed eu nibh quis velit imperdiet tempor ac at orci. 
 
@@ -17,3 +18,5 @@ Donec tempus massa eget tempor tristique. Praesent feugiat leo eu justo dignissi
 Duis sem augue, fermentum vitae lacus vitae, convallis lacinia leo. Donec eu odio hendrerit massa aliquam auctor sed id magna. Etiam ac neque maximus, auctor ante nec, fringilla odio.
 
 Ut posuere sagittis justo vitae finibus. Integer a libero enim. Nullam sodales sapien mattis aliquam lobortis. Donec sodales finibus turpis vitae tincidunt. Pellentesque molestie sagittis sodales.
+
+![](image-placeholder-green.png)
